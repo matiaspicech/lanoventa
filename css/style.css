@@ -273,3 +273,18 @@ footer{
     justify-content: space-around;
     align-items: center;
 }
+
+@media(max-width:1024px){
+    .fondo-info{
+        margin-top: 4.375rem;
+        margin-left: 3.125rem;
+        text-align: center;
+        letter-spacing: .0625rem;
+    }
+    .section-dos-info{
+        width: 20%;
+        text-align: center;
+    }
+}
+
+
